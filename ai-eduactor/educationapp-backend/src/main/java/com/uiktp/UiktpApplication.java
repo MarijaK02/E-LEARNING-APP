@@ -8,5 +8,4 @@ public class UiktpApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UiktpApplication.class, args);
 	}
-
 }
